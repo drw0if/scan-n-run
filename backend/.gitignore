@@ -1,0 +1,4 @@
+win_env/*
+.vscode/*
+data.db
+__pycache__/*
